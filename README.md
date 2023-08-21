@@ -160,22 +160,22 @@ Hopefully, you will receive feedback a week after the handin deadline
 That is, **the re-submission deadline is two weeks after the original
 handin deadline, given that you receive the feedback in time**.
 
-### Weekly 1 (due September 15th)
+### Weekly 1 (due September 14th)
 
 * [Assignment text](weeklies/weekly-1/assignment1.asciidoc)
 * [Code handin](weeklies/weekly-1/w1-code-handin.tar.gz)
 
-### Weekly 2 (due September 28th)
+### Weekly 2 (due September 27th)
 
 * [Assignment text](weeklies/weekly-2/assignment2.asciidoc)
 * [Code handout](weeklies/weekly-2/w2-code-handin.tar.gz)
 
-### Weekly 3 (due October 7th)
+### Weekly 3 (due October 6th)
 
 * [Assignment text](weeklies/weekly-3/assignment3.asciidoc)
 * [Code handout](weeklies/weekly-3/w3-code-handin.tar.gz)
 
-### Weekly 4 (due October 14th)
+### Weekly 4 (due ???)
 
 * [Assignment text](weeklies/weekly-4/Assignment4.pdf)
 
@@ -198,35 +198,24 @@ Several potential choices for group project may be found in folder `group-projec
 
 All students will be provided individual accounts on a multi-core and GPGPU machine that supports multi-core programming via C++/OpenMP and CUDA programming.
 
-Login to GPU & 16 multicore machines will become operational after 6th of September:
+* Login to machines equiped with top-end A100 GPUs & 48 multicore, 2-way multithreaded machines will become operational after 4th of September.   You need to be [connected to the VPN](https://github.com/diku-dk/howto/blob/main/vpn.md) in order to access the machines.
 
-You log in by first SSHing to the bastion server
-`ssh-diku-apl.science.ku.dk` using your KU license plate (`abc123`) as
-the user name, and then SSHing on to one of the GPU machines.
+* Once you are connected to VPN you may ssh directly to `futharkhpa03fl.unicph.domain` with your ku-id and corresponding password, and then you probably need to modify your `.bashrc` file.  More hardware and software (installation) documentation is available [here](https://github.com/diku-dk/howto/blob/main/servers.md)
 
 ```bash
-$ ssh -l <ku_id> ssh-diku-apl.science.ku.dk
-$ ssh gpu04-diku-apl
+$ ssh -l <ku_id> futharkhpa03fl.unicph.domain
 ````
-(or gpu02-diku-apl or gpu03-diku-apl).
+(or futharkhpa01fl.unicph.domain).
  
-Despite their names, they each have 16 cores with 2-way hyperthreading CPUs and plenty of RAM as well. The GPUs are:
-  * `gpu02-diku-apl`, `gpu03-diku-apl` have dual GTX780 Ti GPUs.
-
-  * `gpu04-diku-apl` has a GTX 2080 Ti GPU (by far the fastest).
-
-For CUDA to work, you may need to add the following to your `$HOME/.bash_profile` or `$HOME/.bashrc` file (on one of the gpu02..4-diku-apl machines):
+For CUDA to work, you may need to add the following to your `$HOME/.bash_profile` or `$HOME/.bashrc` file (on one of the machines, since they are connected by NFS):
 
 ```bash
-CUDA_DIR=/usr/local/cuda
-export PATH=$CUDA_DIR/bin:$PATH
-export LD_LIBRARY_PATH=$CUDA_DIR/lib64:$LD_LIBRARY_PATH
-export LIBRARY_PATH=$LD_LIBRARY_PATH:$LIBRARY_PATH
-export CPLUS_INCLUDE_PATH=$CUDA_DIR/include:$CPLUS_INCLUDE_PATH
-export C_INCLUDE_PATH=$CUDA_DIR/include:$C_INCLUDE_PATH
+export CPATH=/usr/local/cuda/include:$CPATH
+export LIBRARY_PATH=/usr/local/cuda/lib64:$LIBRARY_PATH
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64/$LD_LIBRARY_PATH
+export PATH=/usr/local/cuda/bin:$PATH
 ```
 
-*New accounts have also been created on sever futharkhpa03fl.unicph.domain, which contains two top-of-the-line A100 Nvidia GPUs.* You may ssh directly to `futharkhpa03fl.unicph.domain` with your ku-id and corresponding password, and then similarly add the above to your `.bashrc` file. More hardware documentation is available [here](https://github.com/diku-dk/howto/blob/main/servers.md)
 
 ## Other resources
 
