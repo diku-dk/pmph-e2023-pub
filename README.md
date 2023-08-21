@@ -109,7 +109,7 @@ the lab sessions.
 | 06/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
 | 11/09 | 13:00-15:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | chapters 3 and 4 in Lecture Notes |
 | 11/09 | 15:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf); | help with weekly |
-| 13/09 | 13:00-15:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | , chapter 4 in Lecture Notes |
+| 13/09 | 13:00-15:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | chapter 4 in Lecture Notes |
 | 13/09 | 15:00-17:00 | Lab: [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first |
 | 13/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
 | 18/09 | 13:00-15:00 | [In-Order Pipelines (HWD)](slides/L3-InOrderPipe.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
