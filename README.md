@@ -74,10 +74,9 @@ Teacher: **[Cosmin Oancea](mailto:cosmin.oancea@diku.dk)**.
 
 Teaching assistants (TAs): **[Anders Holst](mailto:anersholst@gmail.com)**, **[Nikolaj Hey Hinnerskov](mailto:nihi@di.ku.dk)**. 
 
-The plan is that the teacher will conduct the lectures and the lab.
-The TAs will be mainly in charge of grading and providing good feedback
-to the weekly assignments and patrolling the Absalon/Discord discussion
-forums.
+The plan is that the teacher will conduct the lectures and labs.
+The TAs will be in charge of grading and providing good feedback to the 
+weekly assignments and of patrolling the Absalon/Discord discussion forums.
 
 ### Course Tracks and Resources
 
