@@ -68,15 +68,11 @@ The oral examination will be hold in the exam week (Wednesday, Thursday and Frid
 
 **Weekly and group assignment handin is still on Absalon.**
 
-### Teacher and Teaching Assistants (TAs)
+### Teachers
 
 Teacher: **[Cosmin Oancea](mailto:cosmin.oancea@diku.dk)**.
 
-Teaching assistants (TA): 
-
-**[Anders Holst](mailto:anersholst@gmail.com)**
-
-**[Nikolaj Hey Hinnerskov](mailto:nihi@di.ku.dk)**. 
+Teaching assistants (TAs): **[Anders Holst](mailto:anersholst@gmail.com)**, **[Nikolaj Hey Hinnerskov](mailto:nihi@di.ku.dk)**. 
 
 The plan is that the teacher will conduct the lectures and the lab.
 The TAs will be mainly in charge of grading and providing good feedback
