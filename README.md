@@ -103,7 +103,7 @@ the lab sessions.
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
 | 04/09 | 13:00-15:00 | [Intro, Hardware Trends and List Homomorphisms (SFT)](slides/L1-Intro-Org-LH.pdf), Chapters 1 and 2 in Lecture Notes | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-Hom/GibonsThirdTheorem.pdf) |
-| 04/09 | 15:00-17:00 | [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf), [Introducing Futhark on List-Homomorphism Examples](slides/L1-Intro-Org-LH.pdf) |
+| 04/09 | 15:00-17:00 | [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf) |
 | 06/09 | 13:00-15:00 | [List Homomorphism & Parallel Basic Blocks (SFT)](slides/L2-Flatenning.pdf), Chapters 2 and 3 in Lecture Notes | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
 | 06/09 | 15:00-17:00 | Lab: Futhark programming, First Weekly | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [futhark code for the first week (list homs)](futhark-code/L1) |
 | 06/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
