@@ -198,9 +198,9 @@ Several potential choices for group project may be found in folder `group-projec
 
 All students will be provided individual accounts on a multi-core and GPGPU machine that supports multi-core programming via C++/OpenMP and CUDA programming.
 
-* Login to machines equiped with top-end A100 GPUs & 48 multicore, 2-way multithreaded machines will become operational after 4th of September.   You need to be [connected to the VPN](https://github.com/diku-dk/howto/blob/main/vpn.md) in order to access the machines.
+* The available machines are equiped with top-end A100 GPUs & two AMD EPYC 7352 24-Core CPUs (total 96 hardware threads). Login to such machines will become operational after 4th of September.   You need to be [connected to the VPN](https://github.com/diku-dk/howto/blob/main/vpn.md) in order to access the machines.
 
-* Once you are connected to VPN you may ssh directly to `futharkhpa03fl.unicph.domain` with your ku-id and corresponding password, and then you probably need to modify your `.bashrc` file.  More hardware and software (installation) documentation is available [here](https://github.com/diku-dk/howto/blob/main/servers.md)
+* Once you are connected to VPN you may ssh directly, for example, to `futharkhpa03fl.unicph.domain` with your ku-id and corresponding password, and then you probably need to modify your `.bashrc` file.  More hardware and software (installation) documentation is available [here](https://github.com/diku-dk/howto/blob/main/servers.md)
 
 ```bash
 $ ssh -l <ku_id> futharkhpa03fl.unicph.domain
@@ -215,7 +215,6 @@ export LIBRARY_PATH=/usr/local/cuda/lib64:$LIBRARY_PATH
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64/$LD_LIBRARY_PATH
 export PATH=/usr/local/cuda/bin:$PATH
 ```
-
 
 ## Other resources
 
