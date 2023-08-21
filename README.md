@@ -19,7 +19,7 @@ can concentrate on project work (to be announced).
 ### Lectures (zoom links will be posted on Absalon):
 
 * Monday    13:00 - 15:00 (øv - 4-0-02, Ole Maaløes Vej 5, Biocenter)
-* Wednesday 13:00 - 15:00 (øv - 4-0-02, Ole Maaløes Vej 5, Biocenter)
+* Wednesday 13:00 - 15:00 (aud - Aud 06, Universitetsparken 5, HCØ)
 
 ### Labs: 
 
@@ -28,7 +28,7 @@ can concentrate on project work (to be announced).
 
 ### Flexible Schedule on Wednesday
 
-We have also reserved room "aud - NBB 2.0.G.064/070, Jagtvej 155" 
+We have also reserved room (aud - NBB 2.0.G.064/070, Jagtvej 155) 
 for Wednesday 10:00 -- 12:00. In case there is a vast majority of
 you who prefer starting in the morning, we can re-schedule the
 lecture and lab on Wednesday.
