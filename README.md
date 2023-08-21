@@ -102,49 +102,49 @@ the lab sessions.
 
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
-| 05/09 | 13:00-15:00 | [Intro, Hardware Trends and List Homomorphisms (SFT)](slides/L1-Intro-Org-LH.pdf), Chapters 1 and 2 in Lecture Notes | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-Hom/GibonsThirdTheorem.pdf) |
-| 05/09 | 13:00-15:00 | [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf)](slides/L1-Intro-Org-LH.pdf) |
-| 07/09 | 13:00-15:00 | [List Homomorphism & Parallel Basic Blocks (SFT)](slides/L2-Flatenning.pdf), Chapters 2 and 3 in Lecture Notes | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
-| 07/09 | 15:00-17:00 | Lab: Futhark programming, First Weekly | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [futhark code for the first week (list homs)](futhark-code/L1) |
-| 07/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
-| 12/09 | 13:00-15:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | chapters 3 and 4 in Lecture Notes |
-| 12/09 | 15:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf); | help with weekly |
-| 14/09 | 13:00-15:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | , chapter 4 in Lecture Notes |
-| 14/09 | 15:00-17:00 | Lab: [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first |
-| 14/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
-| 19/09 | 13:00-15:00 | [In-Order Pipelines (HWD)](slides/L3-InOrderPipe.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
-| 19/09 | 15:00-17:00 | Lab: helping with weeklies |  |
-| 21/09 | 13:00-15:00 | [Optimizing ILP, VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
-| 21/09 | 15:00-17:00 | Lab: [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf) | helping with the first two weekly assignments.
-| 21/09 |  | No new weekly assignment this week; the third will be published next week | |
-| 26/09 | 13:00-15:00 | [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 5 of lecture Notes |
-| 26/09 | 15:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the weekly assignments. |
-| 28/09 | 13:00-15:00 | [Optimizing Locality, Case Study: Nearest Neighbor, Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
-| 28/09 | 15:00-17:00 | Lab: discussing the third assignment | helping with the weekly assignments.
-| 28/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
-| 03/10 | 13:00-15:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
-| 03/10 | 15:00-17:00 | Lab: [**Presenting Possible Group Projects**](group-projects/) | discussing group projects, helping with weekly assignments |
-| 05/10 | 13:00-15:00 | HWD: [Scalable Coherence Protocols](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
-| 05/10 | 15:00-17:00 | Lab: [**Presenting Possible Group Projects**](group-projects/), [Assignment 4 handout](weeklies/weekly-4/) | helping with weekly assignments, discussing group projects.
-| 05/10 | some time | [Assignment 4 handout](weeklies/weekly-4/) | |
-| 10/10 | 13:00-15:00 | HWD: [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
-| 10/10 | 15:00-17:00 | Lab: helping with weekly assignments and project |  |
-| 12/10 | 13:00-15:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref) |
-| 12/10 | 15:00-17:00 | Lab: Working on the 4th Weekly Assignment | helping with project and anything else.
-| 17/10 | 13:00-15:00 | Autumn break (no lecture) | |
-| 17/10 | 15:00-17:00 | Autumn break (no lab) | |
-| 19/10 | 13:00-15:00 | Autumn break (no lecture) | |
-| 19/10 | 15:00-17:00 | Autumn break (no lab) |
-| 24/10 | 13:00-15:00 | No lecture |  |
-| 24/10 | 15:00-17:00 | Lab: Helping with group-project, weekly assignments | |
-| 26/10 | 13:00-15:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
-| 26/10 | 15:00-17:00 | Lab: help with group project, weeklies |
-| 31/10 | 13:00-15:00 | Invited Talk: Prof. Pedro Trancoso (Chalmers University) | either in this slot or we switch with the slot from 15:00-17:00; to be updated later |
-| 31/10 | 15:00-17:00 | Lab: Helping with group project, weeklies | |
-| 02/11 | 13:00-15:00 | No Lecture unless you ask for one | |
-| 02/11 | 15:00-17:00 | Lab: help with group project |
-| 09/11 | whole day | Oral exam | one three-person group will be examined in about 1 hour, but all of you will take two full days.|
-| 10/11 | whole day | Oral exam | |
+| 04/09 | 13:00-15:00 | [Intro, Hardware Trends and List Homomorphisms (SFT)](slides/L1-Intro-Org-LH.pdf), Chapters 1 and 2 in Lecture Notes | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-Hom/GibonsThirdTheorem.pdf) |
+| 04/09 | 15:00-17:00 | [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf)](slides/L1-Intro-Org-LH.pdf) |
+| 06/09 | 13:00-15:00 | [List Homomorphism & Parallel Basic Blocks (SFT)](slides/L2-Flatenning.pdf), Chapters 2 and 3 in Lecture Notes | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
+| 06/09 | 15:00-17:00 | Lab: Futhark programming, First Weekly | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [futhark code for the first week (list homs)](futhark-code/L1) |
+| 06/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
+| 11/09 | 13:00-15:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | chapters 3 and 4 in Lecture Notes |
+| 11/09 | 15:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf); | help with weekly |
+| 13/09 | 13:00-15:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | , chapter 4 in Lecture Notes |
+| 13/09 | 15:00-17:00 | Lab: [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first |
+| 13/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
+| 18/09 | 13:00-15:00 | [In-Order Pipelines (HWD)](slides/L3-InOrderPipe.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
+| 18/09 | 15:00-17:00 | Lab: helping with weeklies |  |
+| 20/09 | 13:00-15:00 | [Optimizing ILP, VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
+| 20/09 | 15:00-17:00 | Lab: [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf) | helping with the first two weekly assignments.
+| 20/09 |  | No new weekly assignment this week; the third will be published next week | |
+| 25/09 | 13:00-15:00 | [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 5 of lecture Notes |
+| 25/09 | 15:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the weekly assignments. |
+| 27/09 | 13:00-15:00 | [Optimizing Locality, Case Study: Nearest Neighbor, Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
+| 27/09 | 15:00-17:00 | Lab: discussing the third assignment | helping with the weekly assignments.
+| 27/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
+| 02/10 | 13:00-15:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
+| 02/10 | 15:00-17:00 | Lab: [**Presenting Possible Group Projects**](group-projects/) | discussing group projects, helping with weekly assignments |
+| 04/10 | 13:00-15:00 | HWD: [Scalable Coherence Protocols](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
+| 04/10 | 15:00-17:00 | Lab: [**Presenting Possible Group Projects**](group-projects/), [Assignment 4 handout](weeklies/weekly-4/) | helping with weekly assignments, discussing group projects.
+| 04/10 | some time | [Assignment 4 handout](weeklies/weekly-4/) | |
+| 09/10 | 13:00-15:00 | HWD: [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
+| 09/10 | 15:00-17:00 | Lab: helping with weekly assignments and project |  |
+| 11/10 | 13:00-15:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref) |
+| 11/10 | 15:00-17:00 | Lab: Working on the 4th Weekly Assignment | helping with project and anything else.
+| 16/10 | 13:00-15:00 | Autumn break (no lecture) | |
+| 16/10 | 15:00-17:00 | Autumn break (no lab) | |
+| 18/10 | 13:00-15:00 | Autumn break (no lecture) | |
+| 18/10 | 15:00-17:00 | Autumn break (no lab) |
+| 23/10 | 13:00-15:00 | No lecture | Upon request, may show up and help with group-project/weeklies |
+| 23/10 | 15:00-17:00 | Lab: Helping with group-project, weekly assignments | |
+| 25/10 | 13:00-15:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
+| 25/10 | 15:00-17:00 | Lab: help with group project, weeklies |
+| 30/10 | 13:00-15:00 | No lecture unless you ask for one | Upon request, may show up and help with group-project/weeklies |
+| 30/10 | 15:00-17:00 | Lab: Helping with group project, weeklies | |
+| 01/11 | 13:00-15:00 | No Lecture unless you ask for one | Upon request, may show up and help with group-project/weeklies |
+| 01/11 | 15:00-17:00 | Lab: help with group project |
+| 08/11 | whole day | Oral exam | one three-person group will be examined in about 1 hour, but all of you will take two full days.|
+| 09/11 | whole day | Oral exam | |
  
 
 
