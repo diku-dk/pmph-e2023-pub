@@ -23,7 +23,7 @@ can concentrate on project work (to be announced).
 
 ### Labs: 
 
-* Monday    15:00 - 17:00 (øv - 4-0-32, Ole Maaløes Vej 5, Biocenter)
+* Monday    15:00 - 17:00 (øv - 4-0-02, Ole Maaløes Vej 5, Biocenter)
 * Wednesday 15:00 - 17:00 (aud - NBB 2.0.G.064/070, Jagtvej 155)
 
 ### Flexible Schedule on Wednesday
