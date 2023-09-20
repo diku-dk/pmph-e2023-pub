@@ -113,33 +113,31 @@ the lab sessions.
 | 13/09 | 15:00-17:00 | Lab: [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first |
 | 13/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
 | 18/09 | 13:00-15:00 | [In-Order Pipelines (HWD)](slides/L3-InOrderPipe.pdf), [Optimizing ILP, VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
-| 18/09 | 15:00-17:00 | Lab: helping with weeklies |  |
-| 20/09 | 13:00-15:00 | [Optimizing ILP, VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
-| 20/09 | 15:00-17:00 | Lab: [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf) | helping with the first two weekly assignments.
+| 18/09 | 15:00-17:00 | Lab: [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf) | helping with weeklies |
+| 20/09 | 13:00-15:00 | [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 5 of lecture Notes |
+| 20/09 | 15:00-17:00 |  | helping with the first two weekly assignments.
 | 20/09 |  | No new weekly assignment this week; the third will be published next week | |
-| 25/09 | 13:00-15:00 | [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 5 of lecture Notes |
-| 25/09 | 15:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the weekly assignments. |
-| 27/09 | 13:00-15:00 | [Optimizing Locality, Case Study: Nearest Neighbor, Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
+| 25/09 | 13:00-15:00 | [Demonstrating Simple Techniques for Optimizing Locality](slides/L6-locality.pdf) | Chapter 5 and 6 of Lecture Notes |
+| 25/09 | 15:00-17:00 | [**Assignment 3(+4) handout**](weeklies/weekly-3/) | helping with the weekly assignments. |
+| 27/09 | 13:00-15:00 | [Optimizing Locality same idea in other words: Nearest Neighbor, and again Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
 | 27/09 | 15:00-17:00 | Lab: discussing the third assignment | helping with the weekly assignments.
-| 27/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
 | 02/10 | 13:00-15:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
 | 02/10 | 15:00-17:00 | Lab: [**Presenting Possible Group Projects**](group-projects/) | discussing group projects, helping with weekly assignments |
 | 04/10 | 13:00-15:00 | HWD: [Scalable Coherence Protocols](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
 | 04/10 | 15:00-17:00 | Lab: [**Presenting Possible Group Projects**](group-projects/), [Assignment 4 handout](weeklies/weekly-4/) | helping with weekly assignments, discussing group projects.
-| 04/10 | some time | [Assignment 4 handout](weeklies/weekly-4/) | |
 | 09/10 | 13:00-15:00 | HWD: [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
 | 09/10 | 15:00-17:00 | Lab: helping with weekly assignments and project |  |
-| 11/10 | 13:00-15:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref) |
-| 11/10 | 15:00-17:00 | Lab: Working on the 4th Weekly Assignment | helping with project and anything else.
+| 11/10 | 13:00-15:00 | Demonstrating by Exercises the Coherency Protocols and Interconnect material | |
+| 11/10 | 15:00-17:00 | | helping with weeklies and project
 | 16/10 | 13:00-15:00 | Autumn break (no lecture) | |
 | 16/10 | 15:00-17:00 | Autumn break (no lab) | |
 | 18/10 | 13:00-15:00 | Autumn break (no lecture) | |
 | 18/10 | 15:00-17:00 | Autumn break (no lab) |
 | 23/10 | 13:00-15:00 | No lecture | Upon request, may show up and help with group-project/weeklies |
 | 23/10 | 15:00-17:00 | Lab: Helping with group-project, weekly assignments | |
-| 25/10 | 13:00-15:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
+| 25/10 | 13:00-15:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref) |
 | 25/10 | 15:00-17:00 | Lab: help with group project, weeklies |
-| 30/10 | 13:00-15:00 | No lecture unless you ask for one | Upon request, may show up and help with group-project/weeklies |
+| 30/10 | 13:00-15:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
 | 30/10 | 15:00-17:00 | Lab: Helping with group project, weeklies | |
 | 01/11 | 13:00-15:00 | No Lecture unless you ask for one | Upon request, may show up and help with group-project/weeklies |
 | 01/11 | 15:00-17:00 | Lab: help with group project |
@@ -170,14 +168,11 @@ handin deadline, given that you receive the feedback in time**.
 * [Assignment text](weeklies/weekly-2/assignment2.asciidoc)
 * [Code handout](weeklies/weekly-2/w2-code-handin.tar.gz)
 
-### Weekly 3 (due October 6th)
+### Weekly 3 (due October 9th)
 
 * [Assignment text](weeklies/weekly-3/assignment3.asciidoc)
 * [Code handout](weeklies/weekly-3/w3-code-handin.tar.gz)
 
-### Weekly 4 (due ???)
-
-* [Assignment text](weeklies/weekly-4/Assignment4.pdf)
 
 ## Group projects (due Friday just before the exam week starts)
 
