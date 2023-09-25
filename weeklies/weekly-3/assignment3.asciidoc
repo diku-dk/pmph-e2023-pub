@@ -1,9 +1,17 @@
-= Third Weekly Assignment for the PMPH Course (20 pts total)
+= Third and Fourth Weekly Assignment for the PMPH Course (21 pts total)
 
-This is the text of the third weekly assignment for the DIKU course
-"Programming Massively Parallel Hardware", 2023-2024. The assignment
-consists of two pen-and-paper exercises and four coding exercises
-in Cuda.
+This is the text of the third and fourth weekly assignment for the DIKU
+course "Programming Massively Parallel Hardware", 2023-2024. 
+The assignments consists of two pen-and-paper exercises and four coding
+exercises in Cuda.  
+
+* Assignment 3 consists of tasks 1, 2 and 3: total 10 pts (tasks 1 and 2 are pen and paper, task 3 is a programming task)
+
+* Assignment 4 consists of tasks 4, 5 and 6: total 11pts (all are programming tasks)
+
+* The due date is the same for both assignments; you are encouraged to submit once.
+
+*For the coding/programming tasks, you are allowed to do the coding in groups (of two), but the report writing should be individual. Please document on the first page whether you have worked in groups together with the names and ku-ids of the students in a group (so that the same TA grades both members of the group).*
 
 Hand in your solution in the form of a short report in text or PDF
 format, along with the whole codebase that has been improved with your
@@ -115,7 +123,7 @@ Reason about the loop-level parallelism of the code above and answer the followi
     composition of parallel operators! Please write in your report the 
     semantically-equivalent Futhark program.
 
-== Task 3: Histogram-like Computation -- Cuda Exercise 1 (3 pts)
+== Task 3: Histogram-like Computation -- Cuda Exercise 1 (4 pts)
 
 See section "LL$ threshing: Histogram-like computation" in companion lecture slides `L6-locality.pdf`.
 
