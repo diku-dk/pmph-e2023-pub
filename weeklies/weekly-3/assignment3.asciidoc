@@ -1,9 +1,7 @@
 = Third and Fourth Weekly Assignment for the PMPH Course (21 pts total)
 
-This is the text of the third and fourth weekly assignment for the DIKU
-course "Programming Massively Parallel Hardware", 2023-2024. 
-The assignments consists of two pen-and-paper exercises and four coding
-exercises in Cuda.  
+This is the text of the third and fourth weekly assignment for the PMPH 
+edition 2023-2024.  
 
 * Assignment 3 consists of tasks 1, 2 and 3: total 10 pts (tasks 1 and 2 are pen and paper, task 3 is a programming task)
 
@@ -11,16 +9,16 @@ exercises in Cuda.
 
 * The due date is the same for both assignments; you are encouraged to submit once.
 
-*For the coding/programming tasks, you are allowed to do the coding in groups (of two), but the report writing should be individual. Please document on the first page whether you have worked in groups together with the names and ku-ids of the students in a group (so that the same TA grades both members of the group).*
+* the programming tasks can be solved in *groups of two* but the report writing and submission should be individual. Please write on the first page the names and ku-ids of all group members.
 
-Hand in your solution in the form of a short report in text or PDF
+
+Hand in your solutions in the form of a short report in text or PDF
 format, along with the whole codebase that has been improved with your
 solutions.   We hand-in incomplete code in 
 the archive `w3-code-handin.tar.gz`.   You are supposed to fill in the missing
 code such that all the tests are valid and to report performance 
-results. Please send back a zipped archive containing the same files under 
-the same structure that was handed in---implement the missing parts directly
-in the provided files.
+results. Please implement the missing parts directly in the provided
+files and submit the whole code (*not* only the missing parts).
 There are comments in the source files that are supposed to guide you
 (together with the text of this assignment).
 
