@@ -118,7 +118,7 @@ the lab sessions.
 | 20/09 | 15:00-17:00 |  | helping with the first two weekly assignments.
 | 20/09 |  | No new weekly assignment this week; the third will be published next week | |
 | 25/09 | 13:00-15:00 | [Demonstrating Simple Techniques for Optimizing Locality](slides/L6-locality.pdf) | Chapter 5 and 6 of Lecture Notes |
-| 25/09 | 15:00-17:00 | [**Assignment 3(+4) handout**](weeklies/weekly-3/) | helping with the weekly assignments. |
+| 25/09 | 15:00-17:00 | [**Assignment 3+4 handout**](weeklies/weekly-3-4/) | helping with the weekly assignments. |
 | 27/09 | 13:00-15:00 | [Optimizing Locality same idea in other words: Nearest Neighbor, and again Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
 | 27/09 | 15:00-17:00 | Lab: discussing the third assignment | helping with the weekly assignments.
 | 02/10 | 13:00-15:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
@@ -170,8 +170,8 @@ handin deadline, given that you receive the feedback in time**.
 
 ### Weekly 3+4 (due October 9th) -- this is a bigger assignment counting as two assignments
 
-* [Assignment text](weeklies/weekly-3/assignment3.asciidoc)
-* [Code handout](weeklies/weekly-3/w3-code-handin.tar.gz)
+* [Assignment text](weeklies/weekly-3-4/assignment3-4.asciidoc)
+* [Code handout](weeklies/weekly-3-4/w3-code-handin.tar.gz)
 
 
 ## Group projects (due Friday just before the exam week starts)
