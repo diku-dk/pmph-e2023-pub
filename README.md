@@ -134,12 +134,12 @@ the lab sessions.
 | 18/10 | 13:00-15:00 | Autumn break (no lecture) | |
 | 18/10 | 15:00-17:00 | Autumn break (no lab) |
 | 23/10 | 13:00-15:00 | No lecture | Upon request, may show up and help with group-project/weeklies |
-| 23/10 | 15:00-17:00 | Lab: Helping with group-project, weekly assignments | |
+| 23/10 | 15:00-17:00 | Lab: Helping with group-project and weeklies | |
 | 25/10 | 13:00-15:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref) |
 | 25/10 | 15:00-17:00 | Lab: help with group project, weeklies |
-| 30/10 | 13:00-15:00 | Lecture: help with group project and weeklies | you may read Tomasulo Algorithm (HWD) from Chapter 3 of "Parallel Computer Organization and Design" Book; [also on slides](slides/L9-OoOproc.pdf) |
+| 30/10 | 13:00-15:00 | Lecture: helping with group project and weeklies | you may read Tomasulo Algorithm (HWD) from Chapter 3 of "Parallel Computer Organization and Design" Book; [also on slides](slides/L9-OoOproc.pdf) |
 | 30/10 | 15:00-17:00 | Lab: Helping with group project, weeklies | |
-| 01/11 | 13:00-15:00 | No Lecture unless you ask for one | Upon request, may show up and help with group-project/weeklies |
+| 01/11 | 13:00-15:00 | Lecture: helping with group-project | |
 | 01/11 | 15:00-17:00 | Lab: help with group project |
 | 08/11 | whole day | Oral exam | one three-person group will be examined in about 1 hour, but all of you will take two full days.|
 | 09/11 | whole day | Oral exam | |
