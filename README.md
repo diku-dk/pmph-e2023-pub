@@ -141,8 +141,8 @@ the lab sessions.
 | 30/10 | 15:00-17:00 | Lab: Helping with group project, weeklies | |
 | 01/11 | 13:00-15:00 | Lecture: helping with group-project | |
 | 01/11 | 15:00-17:00 | Lab: help with group project |
-| 08/11 | whole day | Oral exam | one three-person group will be examined in about 1 hour, but all of you will take two full days.|
-| 09/11 | whole day | Oral exam | |
+| 08/11 | whole day | Oral exam in øv - 4-0-05, Ole Maaløes Vej 5, Biocenter | one three-person group will be examined in about 1 hour, but all of you will take two full days.|
+| 09/11 | whole day | Oral exam in øv - 4-0-05, Ole Maaløes Vej 5, Biocenter | |
  
 
 
